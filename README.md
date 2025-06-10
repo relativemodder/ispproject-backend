@@ -1,5 +1,8 @@
 # ISP Project API
 
+made for the colledge project, ignore it
+
+
 ## Running the API
 
 This project uses FastAPI with SQLAlchemy ORM and SQLite (default).
